@@ -1,5 +1,9 @@
-# Successor representation with a wave-like update rule
+# Successor Representation with a Wave-like Update Rule
 
-Here is the code I wrote during my master's thesis at KTH Royal Institute of Technology in the Spring semester of 2021.
+This algorithm emerged from my final Master's Degree project at KTH Royal Institute of Technology during the Spring of 2021.
 
-Stay tuned for the link to my thesis and further information.
+I am grateful for the guidance I received from my supervisors Dr. Arvind Kumar and Emil Wärnberg.
+
+The repository contains:
+- My submitted Thesis
+- The relevant code I wrote during the project
